@@ -2,4 +2,4 @@
 Mapty app functional JavaSctipt practice project 
 
 
-![overview](mapty-overwiew.JPG)
+![overview](mapty-overwiev.JPG)
